@@ -1,0 +1,27 @@
+body{
+    background: aquamarine;
+}
+
+.searchbar-container-show{
+    position: absolute;
+    top: 0;
+    left: 40%;
+    right: inherit;
+
+}
+
+.searchbar-container-hide{
+    position: absolute;
+    left: 40%;
+    right: inherit;
+    top: -10%;
+}
+.searchbar{
+    background: #ffffff;
+    border-radius: 15px;
+}
+
+.search-box{
+    /* background: aliceblue; */
+    border: none;
+}
